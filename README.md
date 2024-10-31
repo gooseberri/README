@@ -1,8 +1,4 @@
-- 👋 Hi, I’m USERNAME
-- 👀 I’m interested in how this README works
-- 🌱 I’m currently learning work ethic
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me ... you don't yet
+I'm still learning how everything works (I'm still at the point where using git without errors brings me joy)
 
 <!---
 USERNAME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
